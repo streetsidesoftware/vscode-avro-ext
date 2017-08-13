@@ -1,0 +1,26 @@
+{
+    "name": "avro",
+    "displayName": "avro-idl",
+    "description": "Avro IDL Syntax Highlighting",
+    "version": "0.0.1",
+    "publisher": "streetsidesoftware",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "avro",
+            "aliases": ["Avro", "avro"],
+            "extensions": [".avdl", ".avpr", ".avsc"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "avro",
+            "scopeName": "source.avro",
+            "path": "./syntaxes/avro.tmLanguage.json"
+        }]
+    }
+}
