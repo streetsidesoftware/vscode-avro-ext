@@ -10,17 +10,38 @@
     "categories": [
         "Languages"
     ],
+    "qna": "marketplace",
+    "icon": "images/avro-logo.png",
     "contributes": {
-        "languages": [{
-            "id": "avro",
-            "aliases": ["Avro", "avro"],
-            "extensions": [".avdl", ".avpr", ".avsc"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "avro",
-            "scopeName": "source.avro",
-            "path": "./syntaxes/avro.tmLanguage.json"
-        }]
+        "languages": [
+            {
+                "id": "avro",
+                "aliases": [
+                    "Avro",
+                    "avro"
+                ],
+                "extensions": [
+                    ".avdl",
+                    ".avpr",
+                    ".avsc"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "avro",
+                "scopeName": "source.avro",
+                "path": "./node_modules/avro.tmlanguage/avro.tmLanguage.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "avro.tmlanguage": "git+https://github.com/Jason3S/avro.tmLanguage.git"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jason3S/vscode-avro-ext.git"
     }
 }

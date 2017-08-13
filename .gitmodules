@@ -1,3 +1,0 @@
-[submodule "syntaxes"]
-	path = syntaxes
-	url = git@github.com:Jason3S/avro.tmLanguage.git
