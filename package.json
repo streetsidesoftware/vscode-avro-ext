@@ -2,7 +2,7 @@
     "name": "avro",
     "displayName": "avro-idl",
     "description": "Avro IDL Syntax Highlighting",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "streetsidesoftware",
     "engines": {
         "vscode": "^1.14.0"
