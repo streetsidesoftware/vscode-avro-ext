@@ -37,7 +37,7 @@
         ]
     },
     "dependencies": {
-        "avro.tmlanguage": "^1.0.2"
+        "avro.tmlanguage": "^1.1.0"
     },
     "license": "MIT",
     "repository": {
