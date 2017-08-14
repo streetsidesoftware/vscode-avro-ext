@@ -1,0 +1,20 @@
+{
+	"messages": [
+		"Open",
+		"Merge Changes",
+		"Staged Changes",
+		"Changes",
+		"OK",
+		"Never Show Again",
+		"The git repository at '{0}' has too many active changes, only a subset of Git features will be enabled."
+	],
+	"keys": [
+		"open",
+		"merge changes",
+		"staged changes",
+		"changes",
+		"ok",
+		"neveragain",
+		"huge"
+	]
+}

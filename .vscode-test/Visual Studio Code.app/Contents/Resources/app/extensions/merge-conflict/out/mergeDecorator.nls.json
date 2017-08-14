@@ -1,0 +1,10 @@
+{
+	"messages": [
+		"(Current Change)",
+		"(Incoming Change)"
+	],
+	"keys": [
+		"currentChange",
+		"incomingChange"
+	]
+}

@@ -1,0 +1,10 @@
+[
+	"Abra una carpeta en VS Code para usar un proyecto de TypeScript o JavaScript",
+	"No se pudo determinar el proyecto de TypeScript o JavaScript. Tipo de archivo no compatible",
+	"No se pudo determinar el proyecto de TypeScript o JavaScript",
+	"El archivo no forma parte de un proyecto de TypeScript",
+	"El archivo no forma parte de un proyecto de JavaScript",
+	"Configurar tsconfig.json",
+	"Configurar jsconfig.json",
+	"Más información"
+]

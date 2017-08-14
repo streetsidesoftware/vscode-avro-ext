@@ -1,0 +1,10 @@
+[
+	"請在 VS Code 中開啟資料夾，以使用 TypeScript 或 JavaScript 專案",
+	"無法判斷 TypeScript 或 JavaScript 專案。不支援的檔案類型",
+	"無法判斷 TypeScript 或 JavaScript 專案",
+	"檔案不是 TypeScript 專案的一部份",
+	"檔案不是 JavaScript 專案的一部份",
+	"設定 tsconfig.json",
+	"設定 jsconfig.json",
+	"深入了解"
+]

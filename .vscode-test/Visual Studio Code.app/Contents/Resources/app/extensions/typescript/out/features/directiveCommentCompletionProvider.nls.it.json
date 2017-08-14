@@ -1,0 +1,5 @@
+[
+	"Attiva il controllo semantico in un file JavaScript. Deve essere all'inizio del file.",
+	"Disattiva il controllo semantico in un file JavaScript. Deve essere all'inizio del file.",
+	"Elimina errori di @ts-check sulla riga successiva di un file."
+]

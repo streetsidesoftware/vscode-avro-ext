@@ -1,0 +1,10 @@
+[
+	"Aprire una cartella in Visual Studio Code per usare un progetto TypeScript o JavaScript",
+	"Non è stato possibile determinare il progetto TypeScript o JavaScript. Il tipo di file non è supportato",
+	"Non è stato possibile determinare il progetto TypeScript o JavaScript",
+	"Il file non fa parte di un progetto TypeScript",
+	"Il file non fa parte di un progetto JavaScript",
+	"Configura tsconfig.json",
+	"Configura jsconfig.json",
+	"Altre informazioni"
+]

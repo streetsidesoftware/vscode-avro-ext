@@ -1,0 +1,12 @@
+{
+	"messages": [
+		"Scripts have been disabled in this document",
+		"Scripts are disabled in the markdown preview. Change the Markdown preview secuirty setting to enable scripts",
+		"Scripts Disabled Security Warning"
+	],
+	"keys": [
+		"preview.securityMessage.text",
+		"preview.securityMessage.title",
+		"preview.securityMessage.label"
+	]
+}

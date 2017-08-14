@@ -1,0 +1,14 @@
+{
+	"messages": [
+		"Accept Current Change",
+		"Accept Incoming Change",
+		"Accept Both Changes",
+		"Compare Changes"
+	],
+	"keys": [
+		"acceptCurrentChange",
+		"acceptIncomingChange",
+		"acceptBothChanges",
+		"compareChanges"
+	]
+}

@@ -1,0 +1,10 @@
+[
+	"TypeScript または JavaScript プロジェクトを使用するには、VS Code でフォルダーを開いてください",
+	"TypeScript または JavaScript のプロジェクトを判別できませんでした。サポートされていないファイルの種類です",
+	"TypeScript または JavaScript のプロジェクトを判別できませんでした",
+	"ファイルは TypeScript プロジェクトの一部ではない",
+	"ファイルは JavaScript プロジェクトの一部ではない",
+	"tsconfig.json を構成する",
+	"jsconfig.json を構成する",
+	"詳細情報"
+]

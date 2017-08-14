@@ -1,0 +1,10 @@
+[
+	"TypeScript 또는 JavaScript 프로젝트를 사용하려면 VS Code의 폴더를 여세요.",
+	"TypeScript 또는 JavaScript 프로젝트를 확인할 수 없습니다. 지원되지 않는 파일 형식",
+	"TypeScript 또는 JavaScript 프로젝트를 확인할 수 없습니다.",
+	"파일이 TypeScript 프로젝트의 일부가 아닙니다.",
+	"파일이 JavaScript 프로젝트의 일부가 아닙니다.",
+	"tsconfig.json 구성",
+	"jsconfig.json 구성",
+	"자세한 정보"
+]

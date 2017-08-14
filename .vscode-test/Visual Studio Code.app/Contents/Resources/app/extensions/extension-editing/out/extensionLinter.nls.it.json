@@ -1,0 +1,7 @@
+[
+	"Le immagini devono utilizzare il protocollo HTTPS.",
+	"Immagini di tipo SVG non sono una fonte valida.",
+	"Immagini SVG incorporate non sono una fonte valida.",
+	"URL di dati non sono una fonte valida per le immagini.",
+	"Immagini con URL relative richiedono un repository con protocollo HTTPS in package.json."
+]

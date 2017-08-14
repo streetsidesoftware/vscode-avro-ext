@@ -1,0 +1,7 @@
+[
+	"Récupération (fetch) des données pour l'amélioration de TypeScript IntelliSense",
+	"Impossible d'installer des fichiers de typages pour les fonctionnalités de langage JavaScript. Vérifiez que NPM est installé ou configurez 'typescript.npm' dans vos paramètres utilisateur",
+	"Informations",
+	"Ne plus vérifier",
+	"Fermer"
+]

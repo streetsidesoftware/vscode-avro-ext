@@ -1,0 +1,22 @@
+{
+	"messages": [
+		"Please open a folder in VS Code to use a TypeScript or JavaScript project",
+		"Could not determine TypeScript or JavaScript project. Unsupported file type",
+		"Could not determine TypeScript or JavaScript project",
+		"File is not part of a TypeScript project",
+		"File is not part of a JavaScript project",
+		"Configure tsconfig.json",
+		"Configure jsconfig.json",
+		"Learn More"
+	],
+	"keys": [
+		"typescript.projectConfigNoWorkspace",
+		"typescript.projectConfigUnsupportedFile",
+		"typescript.projectConfigCouldNotGetInfo",
+		"typescript.noTypeScriptProjectConfig",
+		"typescript.noJavaScriptProjectConfig",
+		"typescript.configureTsconfigQuickPick",
+		"typescript.configureJsconfigQuickPick",
+		"typescript.projectConfigLearnMore"
+	]
+}

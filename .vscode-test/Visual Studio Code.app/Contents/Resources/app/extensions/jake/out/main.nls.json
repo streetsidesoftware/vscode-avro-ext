@@ -1,0 +1,8 @@
+{
+	"messages": [
+		"Auto detecting Jake failed with error: {0}"
+	],
+	"keys": [
+		"execFailed"
+	]
+}

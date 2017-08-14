@@ -1,0 +1,5 @@
+[
+	"Aktiviert die Semantiküberprüfung in einer JavaScript-Datei. Muss sich oben in einer Datei befinden.",
+	"Deaktiviert die Semantiküberprüfung in einer JavaScript-Datei. Muss sich oben in einer Datei befinden.",
+	"Unterdrückt @ts-check-Fehler in der nächsten Zeile einer Datei."
+]

@@ -1,0 +1,24 @@
+{
+	"messages": [
+		"Editor cursor is not within a merge conflict",
+		"{0}: Current Changes ⟷ Incoming Changes",
+		"Editor cursor is not within a merge conflict",
+		"Editor cursor is within the common ancestors block, please move it to either the \"current\" or \"incoming\" block",
+		"Editor cursor is within the merge conflict splitter, please move it to either the \"current\" or \"incoming\" block",
+		"No merge conflicts found in this file",
+		"No other merge conflicts within this file",
+		"Editor cursor is not within a merge conflict",
+		"No merge conflicts found in this file"
+	],
+	"keys": [
+		"cursorNotInConflict",
+		"compareChangesTitle",
+		"cursorNotInConflict",
+		"cursorOnCommonAncestorsRange",
+		"cursorOnSplitterRange",
+		"noConflicts",
+		"noOtherConflictsInThisFile",
+		"cursorNotInConflict",
+		"noConflicts"
+	]
+}

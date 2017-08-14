@@ -1,0 +1,8 @@
+[
+	"Consentire l'esecuzione di {0} (definito come impostazione dell'area di lavoro) per il lint dei file PHP?",
+	"Consenti",
+	"Non consentire",
+	"Non è possibile eseguire la convalida perché {0} non è un file eseguibile di PHP valido. Usare l'impostazione 'php.validate.executablePath' per convalidare il file eseguibile di PHP.",
+	"Non è possibile eseguire la convalida perché non è impostato alcun file eseguibile di PHP. Usare l'impostazione 'php.validate.executablePath' per convalidare il file eseguibile di PHP.",
+	"Non è stato possibile eseguire php con il percorso {0}. Il motivo è sconosciuto."
+]

@@ -1,0 +1,21 @@
+[
+	"Der Pfad \"{0}\" zeigt nicht auf eine gültige tsserver-Installation. Fallback auf gebündelte TypeScript-Version wird durchgeführt.",
+	"Der tsserver von VSCode wurde von einer anderen Anwendung wie etwa einem fehlerhaften Tool zur Viruserkennung gelöscht. Führen Sie eine Neuinstallation von VS Code durch.",
+	"benutzerdefiniert",
+	"Der TypeScript-Sprachserver konnte nicht gestartet werden. Fehlermeldung: {0}",
+	"Version von VSCode verwenden",
+	"Aktuell aktiv",
+	"Arbeitsbereichsversion verwenden",
+	"Aktuell aktiv",
+	"Weitere Informationen",
+	"Wählen Sie die für die JavaScript- und TypeScript-Sprachfunktionen verwendete TypeScript-Version aus.",
+	"Die TS Server-Protokollierung erfordert TS 2.2.2+.",
+	"Die TS Server-Protokollierung ist deaktiviert. Legen Sie \"typescript.tsserver.log\" fest, und laden Sie VS Code erneut, um die Protokollierung zu aktivieren.",
+	"Aktiviert die Protokollierung und startet den TS-Server neu.",
+	"TS Server hat noch nicht mit der Protokollierung begonnen.",
+	"Die TS-Server-Protokolldatei konnte nicht geöffnet werden.",
+	"Der TypeScript-Sprachdienst wurde direkt nach seinem Start fünfmal beendet. Der Dienst wird nicht neu gestartet.",
+	"Problem melden",
+	"Der TypeScript-Sprachdienst wurde während der letzten fünf Minuten fünfmal unerwartet beendet.",
+	"Problem melden"
+]

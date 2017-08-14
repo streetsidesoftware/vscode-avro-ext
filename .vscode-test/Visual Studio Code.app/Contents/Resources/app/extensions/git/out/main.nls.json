@@ -1,0 +1,14 @@
+{
+	"messages": [
+		"Using git {0} from {1}",
+		"Update Git",
+		"Don't show again",
+		"You seem to have git {0} installed. Code works best with git >= 2"
+	],
+	"keys": [
+		"using git",
+		"updateGit",
+		"neverShowAgain",
+		"git20"
+	]
+}

@@ -1,0 +1,7 @@
+[
+	"TypeScript ({1}) wird für Editor-Funktionen verwenden. TypeScript ({0}) ist global auf Ihrem Computer installiert. Fehler in VS Code können sich von TSC-Fehlern unterscheiden",
+	"Weitere Informationen",
+	"Nicht erneut überprüfen",
+	"Schließen",
+	"Die Benutzereinstellung \"typescript.check.tscVersion\" wurde zu FALSE aktualisiert."
+]

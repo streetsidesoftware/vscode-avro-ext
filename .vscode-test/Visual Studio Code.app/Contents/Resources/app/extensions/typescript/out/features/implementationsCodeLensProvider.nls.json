@@ -1,0 +1,12 @@
+{
+	"messages": [
+		"1 implementation",
+		"{0} implementations",
+		"Could not determine implementations"
+	],
+	"keys": [
+		"oneImplementationLabel",
+		"manyImplementationLabel",
+		"implementationsErrorLabel"
+	]
+}

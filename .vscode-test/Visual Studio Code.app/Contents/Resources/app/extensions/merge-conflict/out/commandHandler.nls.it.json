@@ -1,0 +1,11 @@
+[
+	"Il cursore dell'editor non si trova all'interno di un conflitto merge",
+	"{0}: modifiche correnti ⟷ modifiche in ingresso",
+	"Il cursore dell'editor non si trova all'interno di un conflitto merge",
+	"Il cursore dell'editor si trova all'interno del blocco di antenati comuni, si prega di passare al blocco \"corrente\" o \"in arrivo\"",
+	"Il cursore si trova sulla barra di divisione di merge conflitti, si prega di spostarlo o al blocco \"corrente\" o a quello \"in ricezione\"",
+	"Conflitti merge non trovati in questo file",
+	"Nessun altro conflitto merge trovato in questo file",
+	"Il cursore dell'editor non si trova all'interno di un conflitto merge",
+	"Conflitti merge non trovati in questo file"
+]

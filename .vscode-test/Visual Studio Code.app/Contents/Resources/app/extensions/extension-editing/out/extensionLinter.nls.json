@@ -1,0 +1,16 @@
+{
+	"messages": [
+		"Images must use the HTTPS protocol.",
+		"SVGs are not a valid image source.",
+		"Embedded SVGs are not a valid image source.",
+		"Data URLs are not a valid image source.",
+		"Relative image URLs require a repository with HTTPS protocol in the package.json."
+	],
+	"keys": [
+		"httpsRequired",
+		"svgsNotValid",
+		"embeddedSvgsNotValid",
+		"dataUrlsNotValid",
+		"relativeUrlRequiresHttpsRepository"
+	]
+}

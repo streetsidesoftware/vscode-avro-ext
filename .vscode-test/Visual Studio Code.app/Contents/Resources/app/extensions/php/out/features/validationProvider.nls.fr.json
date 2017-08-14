@@ -1,0 +1,8 @@
+[
+	"Autorisez-vous l'exécution de {0} (défini en tant que paramètre d'espace de travail) pour effectuer une validation lint sur les fichiers PHP ?",
+	"Autoriser",
+	"Interdire",
+	"Impossible d'effectuer la validation, car {0} n'est pas un exécutable PHP valide. Utilisez le paramètre 'php.validate.executablePath' pour configurer l'exécutable PHP.",
+	"Impossible d'effectuer la validation, car aucun exécutable PHP n'est défini. Utilisez le paramètre 'php.validate.executablePath' pour configurer l'exécutable PHP.",
+	"Échec de l'exécution de php avec le chemin : {0}. Raison inconnue."
+]

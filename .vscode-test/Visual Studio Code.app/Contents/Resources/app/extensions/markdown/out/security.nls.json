@@ -1,0 +1,16 @@
+{
+	"messages": [
+		"Disable script execution in markdown previews for this workspace",
+		"Current setting",
+		"Enable script execution in markdown previews for this workspace",
+		"Current setting",
+		"Change security settings for the Markdown preview"
+	],
+	"keys": [
+		"preview.showPreviewSecuritySelector.disallowScriptsForWorkspaceTitle",
+		"preview.showPreviewSecuritySelector.currentSelection",
+		"preview.showPreviewSecuritySelector.allowScriptsForWorkspaceTitle",
+		"preview.showPreviewSecuritySelector.currentSelection",
+		"preview.showPreviewSecuritySelector.title"
+	]
+}

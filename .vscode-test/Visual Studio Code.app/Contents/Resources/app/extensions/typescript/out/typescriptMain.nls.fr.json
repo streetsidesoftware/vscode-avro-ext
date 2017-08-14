@@ -1,0 +1,10 @@
+[
+	"Ouvrez un dossier dans VS Code pour utiliser un projet TypeScript ou JavaScript",
+	"Impossible de déterminer le projet TypeScript ou JavaScript. Type de fichier non pris en charge",
+	"Impossible de déterminer le projet TypeScript ou JavaScript",
+	"Le fichier ne fait pas partie d'un projet TypeScript",
+	"Le fichier ne fait pas partie d'un projet JavaScript",
+	"Configurer tsconfig.json",
+	"Configurer jsconfig.json",
+	"En savoir plus"
+]

@@ -1,0 +1,14 @@
+{
+	"messages": [
+		"Checkout...",
+		"Synchronize Changes",
+		"Publish Changes",
+		"Synchronizing Changes..."
+	],
+	"keys": [
+		"checkout",
+		"sync changes",
+		"publish changes",
+		"syncing changes"
+	]
+}

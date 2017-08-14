@@ -1,0 +1,12 @@
+{
+	"messages": [
+		"Enables semantic checking in a JavaScript file. Must be at the top of a file.",
+		"Disables semantic checking in a JavaScript file. Must be at the top of a file.",
+		"Suppresses @ts-check errors on the next line of a file."
+	],
+	"keys": [
+		"ts-check",
+		"ts-nocheck",
+		"ts-ignore"
+	]
+}

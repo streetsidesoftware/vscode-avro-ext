@@ -1,0 +1,21 @@
+[
+	"La ruta de acceso {0} no apunta a una instalación válida de tsserver. Se usará la versión de TypeScript del paquete.",
+	"Otra aplicación (por ejemplo, una herramienta de detección de virus con un comportamiento erróneo) eliminó el tsserver de VSCode. Debe reinstalar VS Code.",
+	"personalizada",
+	"El servidor de lenguaje TypeScript no se pudo iniciar. El mensaje de error es: {0}",
+	"Usar versión de VSCode",
+	"Activa actualmente",
+	"Usar versión del área de trabajo",
+	"Activa actualmente",
+	"Más información",
+	"Seleccionar la versión de TypeScript usada para las características del lenguaje de JavaScript y TypeScript",
+	"El registro del servidor de TS requiere TS 2.2.2+",
+	"Los registros del servidor TS están desconectados. Establezca \"typescript.tsserver.log\" y reinicie el servidor TS para activar los registros.",
+	"Habilite el registro y reinicie el servidor TS",
+	"El servidor de TS no ha iniciado el registro.",
+	"No se puede abrir el archivo de registro del servidor de TS",
+	"El servicio de lenguaje TypeScript finalizó de forma inesperada cinco veces después de haberse iniciado y no se reiniciará.",
+	"Notificar problema",
+	"El servicio de lenguaje Typescript finalizó de forma inesperada cinco veces en los últimos cinco minutos.",
+	"Notificar problema"
+]

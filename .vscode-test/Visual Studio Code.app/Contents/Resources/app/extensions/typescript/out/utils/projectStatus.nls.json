@@ -1,0 +1,16 @@
+{
+	"messages": [
+		"To enable project-wide JavaScript/TypeScript language features, exclude folders with many files, like: {0}",
+		"To enable project-wide JavaScript/TypeScript language features, exclude large folders with source files that you do not work on.",
+		"Configure Excludes",
+		"To enable project-wide JavaScript/TypeScript language features, exclude large folders with source files that you do not work on.",
+		"Configure Excludes"
+	],
+	"keys": [
+		"hintExclude",
+		"hintExclude.generic",
+		"large.label",
+		"hintExclude.tooltip",
+		"large.label"
+	]
+}

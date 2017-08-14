@@ -1,0 +1,16 @@
+{
+	"messages": [
+		"Using TypeScript ({1}) for editor features. TypeScript ({0}) is installed globally on your machine. Errors in VS Code  may differ from TSC errors",
+		"More Information",
+		"Don't Check Again",
+		"Close",
+		"Updated user setting 'typescript.check.tscVersion' to false"
+	],
+	"keys": [
+		"versionMismatch",
+		"moreInformation",
+		"doNotCheckAgain",
+		"close",
+		"updateTscCheck"
+	]
+}

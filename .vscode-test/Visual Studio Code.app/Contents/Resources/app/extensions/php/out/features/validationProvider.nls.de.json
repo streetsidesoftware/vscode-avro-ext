@@ -1,0 +1,8 @@
+[
+	"Möchten Sie zulassen, dass {0} (als Arbeitsbereichseinstellung definiert) zum Bereinigen von PHP-Dateien ausgeführt wird?",
+	"Zulassen",
+	"Nicht zulassen",
+	"Eine Überprüfung ist nicht möglich, da {0} keine gültige ausführbare PHP-Datei ist. Verwenden Sie die Einstellung \"'php.validate.executablePath\", um die ausführbare PHP-Datei zu konfigurieren.",
+	"Eine Überprüfung ist nicht möglich, da keine ausführbare PHP-Datei festgelegt ist. Verwenden Sie die Einstellung \"php.validate.executablePath\", um die ausführbare PHP-Datei zu konfigurieren.",
+	"Fehler beim Ausführen von PHP mithilfe des Pfads \"{0}\". Die Ursache ist unbekannt."
+]

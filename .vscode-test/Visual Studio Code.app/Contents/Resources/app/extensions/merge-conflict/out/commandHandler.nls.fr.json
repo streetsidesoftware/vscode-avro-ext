@@ -1,0 +1,11 @@
+[
+	"Le curseur de l'éditeur ne se trouve pas dans un conflit de fusion",
+	"{0} : Modifications actuelles ⟷ Modifications entrantes",
+	"Le curseur de l'éditeur ne se trouve pas dans un conflit de fusion",
+	"Le curseur de l'éditeur se trouve dans le bloc d'ancêtres commun, déplacez-le dans le bloc \"current\" ou \"incoming\"",
+	"Le curseur de l'éditeur se trouve dans le séparateur du conflit de fusion, déplacez-le dans le bloc \"actuelles\" ou \"entrantes\"",
+	"Aucun conflit de fusion dans ce fichier",
+	"Aucun autre conflit de fusion dans ce fichier",
+	"Le curseur de l'éditeur ne se trouve pas dans un conflit de fusion",
+	"Aucun conflit de fusion dans ce fichier"
+]

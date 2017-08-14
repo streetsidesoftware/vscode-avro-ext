@@ -1,0 +1,10 @@
+[
+	"请在 VS Code 中打开一个文件夹，以使用 TypeScript 或 JavaScript 项目",
+	"无法确定 TypeScript 或 JavaScript 项目。不受支持的文件类型",
+	"无法确定 TypeScript 或 JavaScript 项目",
+	"文件不属于 TypeScript 项目",
+	"文件不属于 JavaScript 项目",
+	"配置 tsconfig.json",
+	"配置 jsconfig.json",
+	"了解详细信息"
+]

@@ -1,0 +1,8 @@
+{
+	"messages": [
+		"Auto detecting Grunt failed with error: {0}"
+	],
+	"keys": [
+		"execFailed"
+	]
+}

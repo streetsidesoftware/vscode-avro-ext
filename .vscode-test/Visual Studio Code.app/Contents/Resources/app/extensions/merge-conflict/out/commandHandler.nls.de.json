@@ -1,0 +1,11 @@
+[
+	"Der Editor-Cursor ist nicht innerhalb eines Mergingkonflikts",
+	"{0}: Aktuelle Änderungen ⟷ Eingehende Änderungen",
+	"Der Editor-Cursor ist nicht innerhalb eines Mergingkonflikts",
+	"Der Editor-Cursor ist innerhalb des Blocks gemeinsamer Vorgänger, verschieben Sie ihn entweder in den Block \"aktuell\" oder \"eingehend\". ",
+	"Der Editor-Cursor ist innerhalb der Mergingkonfliktaufteilung, verschieben Sie ihn entweder in den Block \"aktuell\" oder \"eingehend\".",
+	"Keine Merge-Konflikte in dieser Datei gefunden",
+	"Keine weiteren Merge-Konflikte in dieser Datei",
+	"Der Editor-Cursor ist nicht innerhalb eines Mergingkonflikts",
+	"Keine Merge-Konflikte in dieser Datei gefunden"
+]

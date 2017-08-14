@@ -1,0 +1,10 @@
+{
+	"messages": [
+		"Language specific editor settings",
+		"Override editor settings for language"
+	],
+	"keys": [
+		"languageSpecificEditorSettings",
+		"languageSpecificEditorSettingsDescription"
+	]
+}

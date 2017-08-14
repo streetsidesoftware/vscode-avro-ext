@@ -1,0 +1,8 @@
+{
+	"messages": [
+		"JSDoc comment"
+	],
+	"keys": [
+		"typescript.jsDocCompletionItem.documentation"
+	]
+}

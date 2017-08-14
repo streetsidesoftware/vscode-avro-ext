@@ -1,0 +1,10 @@
+[
+	"Öffnen Sie einen Ordner in VS Code, um ein TypeScript- oder JavaScript-Projekt zu verwenden.",
+	"TypeScript- oder JavaScript-Projekt konnte nicht ermittelt werden. Nicht unterstützter Dateityp.",
+	"TypeScript- oder JavaScript-Projekt konnte nicht ermittelt werden.",
+	"Datei ist nicht Teil eines TypeScript-Projekts.",
+	"Datei ist nicht Teil eines JavaScript-Projekts.",
+	"tsconfig.json konfigurieren",
+	"jsconfig.json konfigurieren",
+	"Weitere Informationen"
+]
