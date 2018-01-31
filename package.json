@@ -2,7 +2,7 @@
     "name": "avro",
     "displayName": "avro-idl",
     "description": "Avro IDL Syntax Highlighting",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "streetsidesoftware",
     "engines": {
         "vscode": "^1.14.0"
@@ -21,11 +21,16 @@
                     "avro"
                 ],
                 "extensions": [
-                    ".avdl",
-                    ".avpr",
-                    ".avsc"
+                    ".avdl"
                 ],
                 "configuration": "./language-configuration.json"
+            },
+            {
+                "id": "jsonc",
+                "extensions": [
+                    ".avpr",
+                    ".avsc"
+                ]
             }
         ],
         "grammars": [
