@@ -1,0 +1,164 @@
+{
+    "Define Protocol": {
+        "scope": "avro",
+        "prefix": [
+            "protocol"
+        ],
+        "body": [
+            "protocol ${1:MyProtocol} {",
+            "\t$0",
+            "}"
+        ],
+        "description": "Define Protocol"
+    },
+    "Define Record": {
+        "scope": "avro",
+        "prefix": [
+            "record"
+        ],
+        "body": [
+            "record ${1:MyRecord} {",
+            "\t$0",
+            "}"
+        ],
+        "description": "Define Record"
+    },
+    "Define Error": {
+        "scope": "avro",
+        "prefix": [
+            "error"
+        ],
+        "body": [
+            "error ${1:MyError} {",
+            "\t$0",
+            "}"
+        ],
+        "description": "Define an Avro Error"
+    },
+    "Define Fixed type": {
+        "scope": "avro",
+        "prefix": [
+            "fixed"
+        ],
+        "body": [
+            "fixed ${1:MyFixedType}(${2:size});"
+        ],
+        "description": "Define Fixed type"
+    },
+    "RPC function": {
+        "scope": "avro",
+        "prefix": [
+            "function",
+            "rpc",
+            "void function"
+        ],
+        "body": [
+            "${1:void} ${2:functionName}($0)${3: throws Error};$0"
+        ],
+        "description": "RPC function"
+    },
+    "int field": {
+        "scope": "avro",
+        "prefix": "int",
+        "body": [
+            "int ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "long field": {
+        "scope": "avro",
+        "prefix": "long",
+        "body": [
+            "long ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "string field": {
+        "scope": "avro",
+        "prefix": "string",
+        "body": [
+            "string ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "boolean field": {
+        "scope": "avro",
+        "prefix": "boolean",
+        "body": [
+            "boolean ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "float field": {
+        "scope": "avro",
+        "prefix": "float",
+        "body": [
+            "float ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "double field": {
+        "scope": "avro",
+        "prefix": "double",
+        "body": [
+            "double ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "bytes field": {
+        "scope": "avro",
+        "prefix": "bytes",
+        "body": [
+            "bytes ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "date field": {
+        "scope": "avro",
+        "prefix": "date",
+        "body": [
+            "date ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "time_ms field": {
+        "scope": "avro",
+        "prefix": "time_ms",
+        "body": [
+            "time_ms ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "timestamp_ms field": {
+        "scope": "avro",
+        "prefix": "timestamp_ms",
+        "body": [
+            "timestamp_ms ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "uuid field": {
+        "scope": "avro",
+        "prefix": "uuid",
+        "body": [
+            "uuid ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "decimal field": {
+        "scope": "avro",
+        "prefix": "decimal",
+        "body": [
+            "decimal(${2:precision},${3:scale}) ${1:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    },
+    "field": {
+        "scope": "avro",
+        "prefix": "field",
+        "body": [
+            "${1:int} ${2:fieldName};$0"
+        ],
+        "description": "Field for a Record or Error"
+    }
+}
